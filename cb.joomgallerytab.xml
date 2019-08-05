@@ -2,11 +2,12 @@
 <cbinstall version="1.0" type="plugin" group="user">
   <name>JoomGallery</name>
   <author>Armin Hornung, since 2019 JoomGallery::ProjectTeam</author>
-  <creationDate>2019/14/15</creationDate>
+  <creationDate>2019/08/02</creationDate>
   <copyright>(C) 2009 Armin Hornung, 2010 - 2019 JoomGallery::ProjectTeam</copyright>
   <license>http://www.gnu.org/copyleft/gpl.html GNU/GPL</license>
   <authorUrl>www.joomgalleryfriends.net</authorUrl>
-  <version>3.0.1</version>
+  <version>2.0.1</version>
+  <release>2.0.1</release>
   <description>Provides some tabs for Community Builder for usage with JoomGallery. Be sure to publish the Plugin before usage. Then, you can configure, publish and unpublish each tab of it separately in the CB Tab Management.</description>
   <files>
     <filename plugin="cb.joomgallerytab">cb.joomgallerytab.php</filename>
